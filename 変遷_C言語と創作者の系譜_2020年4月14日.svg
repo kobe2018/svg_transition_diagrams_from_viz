@@ -1,0 +1,781 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="7.2 7.2 1653.79 1361.4" width="1661pt" height="1369pt">
+<g class="graph" id="graph0" transform="scale(1) rotate(0) translate(11.2 1357.4)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1350.2 1642.59,-1350.2 1642.59,4 -4,4" />
+<!-- デニス・リッチー 1969 -->
+<g class="node" id="node1">
+<title>デニス・リッチー 1969</title>
+<g id="a_node1"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="デニス・リッチー 1969&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC">
+<polygon fill="#ffffff" stroke="#000000" points="118.426,-1140.2 3.5241,-1140.2 3.5241,-1118.2 118.426,-1118.2 118.426,-1140.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="60.975" y="-1126.2">デニス・リッチー 1969</text>
+</a>
+</g>
+</g>
+<!-- デニス・リッチー 1972 -->
+<g class="node" id="node2">
+<title>デニス・リッチー 1972</title>
+<g id="a_node2"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="デニス・リッチー 1972&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC">
+<polygon fill="#ffffff" stroke="#000000" points="118.426,-1032.2 3.5241,-1032.2 3.5241,-1010.2 118.426,-1010.2 118.426,-1032.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="60.975" y="-1018.2">デニス・リッチー 1972</text>
+</a>
+</g>
+</g>
+<!-- デニス・リッチー 1969&#45;&gt;デニス・リッチー 1972 -->
+<g class="edge" id="edge2">
+<title>デニス・リッチー 1969-&gt;デニス・リッチー 1972</title>
+<path fill="none" stroke="#000000" d="M 60.975 -1118.05 C 60.975 -1100.26 60.975 -1065.17 60.975 -1042.47" />
+<polygon fill="#000000" stroke="#000000" points="64.4751,-1042.45 60.975,-1032.45 57.4751,-1042.45 64.4751,-1042.45" />
+</g>
+<!-- UNIX 1969 -->
+<g class="node" id="node3">
+<title>UNIX 1969</title>
+<g id="a_node3"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="UNIX 1969&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/UNIX">
+<polygon fill="#ffffff" stroke="#000000" points="733.975,-785.2 647.975,-785.2 647.975,-763.2 733.975,-763.2 733.975,-785.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="690.975" y="-771.2">UNIX 1969</text>
+</a>
+</g>
+</g>
+<!-- デニス・リッチー 1969&#45;&gt;UNIX 1969 -->
+<g class="edge" id="edge3">
+<title>デニス・リッチー 1969-&gt;UNIX 1969</title>
+<path fill="none" stroke="#000000" d="M 118.523 -1122.14 C 246.07 -1106.04 544.12 -1065.81 579.975 -1037.2 C 620.282 -1005.04 668.402 -851.393 685.002 -795.008" />
+<polygon fill="#000000" stroke="#000000" points="688.371,-795.957 687.808,-785.377 681.651,-793.999 688.371,-795.957" />
+</g>
+<!-- B言語 1969 -->
+<g class="node" id="node19">
+<title>B言語 1969</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-1032.2 227.975,-1032.2 227.975,-1010.2 313.975,-1010.2 313.975,-1032.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-1018.2">B言語 1969</text>
+</g>
+<!-- デニス・リッチー 1969&#45;&gt;B言語 1969 -->
+<g class="edge" id="edge29">
+<title>デニス・リッチー 1969-&gt;B言語 1969</title>
+<path fill="none" stroke="#000000" d="M 82.6577 -1118.05 C 120.167 -1098.76 197.266 -1059.11 240.27 -1036.99" />
+<polygon fill="#000000" stroke="#000000" points="242.118,-1039.98 249.41,-1032.29 238.917,-1033.75 242.118,-1039.98" />
+</g>
+<!-- デニス・リッチー 1978 -->
+<g class="node" id="node4">
+<title>デニス・リッチー 1978</title>
+<g id="a_node4"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="デニス・リッチー 1978&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC">
+<polygon fill="#ffffff" stroke="#000000" points="118.426,-919.2 3.5241,-919.2 3.5241,-897.2 118.426,-897.2 118.426,-919.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="60.975" y="-905.2">デニス・リッチー 1978</text>
+</a>
+</g>
+</g>
+<!-- デニス・リッチー 1972&#45;&gt;デニス・リッチー 1978 -->
+<g class="edge" id="edge4">
+<title>デニス・リッチー 1972-&gt;デニス・リッチー 1978</title>
+<path fill="none" stroke="#000000" d="M 60.975 -1009.95 C 60.975 -991.253 60.975 -953.472 60.975 -929.579" />
+<polygon fill="#000000" stroke="#000000" points="64.4751,-929.403 60.975,-919.403 57.4751,-929.403 64.4751,-929.403" />
+</g>
+<!-- C言語 1972 -->
+<g class="node" id="node23">
+<title>C言語 1972</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-919.2 227.975,-919.2 227.975,-897.2 313.975,-897.2 313.975,-919.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-905.2">C言語 1972</text>
+</g>
+<!-- デニス・リッチー 1972&#45;&gt;C言語 1972 -->
+<g class="edge" id="edge31">
+<title>デニス・リッチー 1972-&gt;C言語 1972</title>
+<path fill="none" stroke="#000000" d="M 81.493 -1010.16 C 118.896 -990.033 198.283 -947.315 241.48 -924.071" />
+<polygon fill="#000000" stroke="#000000" points="243.226,-927.106 250.374,-919.286 239.909,-920.942 243.226,-927.106" />
+</g>
+<!-- UNIX V4:C言語開発:1973 -->
+<g class="node" id="node14">
+<title>UNIX V4:C言語開発:1973</title>
+<g id="a_node14"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="UNIX V4:C言語開発:1973&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/UNIX">
+<polygon fill="#ffffff" stroke="#000000" points="759.222,-672.2 622.728,-672.2 622.728,-650.2 759.222,-650.2 759.222,-672.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="690.975" y="-658.2">UNIX V4:C言語開発:1973</text>
+</a>
+</g>
+</g>
+<!-- UNIX 1969&#45;&gt;UNIX V4:C言語開発:1973 -->
+<g class="edge" id="edge17">
+<title>UNIX 1969-&gt;UNIX V4:C言語開発:1973</title>
+<path fill="none" stroke="#000000" d="M 690.975 -762.952 C 690.975 -744.253 690.975 -706.472 690.975 -682.579" />
+<polygon fill="#000000" stroke="#000000" points="694.475,-682.403 690.975,-672.403 687.475,-682.403 694.475,-682.403" />
+</g>
+<!-- 『プログラミング言語C』 初版 -->
+<g class="node" id="node5">
+<title>『プログラミング言語C』 初版</title>
+<polygon fill="#ffc000" stroke="#000000" points="183.76,-559.2 44.1897,-559.2 44.1897,-537.2 183.76,-537.2 183.76,-559.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="113.975" y="-545.2">『プログラミング言語C』 初版</text>
+</g>
+<!-- デニス・リッチー 1978&#45;&gt;『プログラミング言語C』 初版 -->
+<g class="edge" id="edge5">
+<title>デニス・リッチー 1978-&gt;『プログラミング言語C』 初版</title>
+<path fill="none" stroke="#000000" d="M 71.3409 -896.921 C 88.7552 -877.117 123.228 -834.018 135.975 -790.2 C 159.005 -711.032 134.049 -611.699 120.953 -569.131" />
+<polygon fill="#000000" stroke="#000000" points="124.281,-568.048 117.915,-559.579 117.61,-570.169 124.281,-568.048" />
+</g>
+<!-- デニス・リッチー 1988 -->
+<g class="node" id="node6">
+<title>デニス・リッチー 1988</title>
+<g id="a_node6"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="デニス・リッチー 1988&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC">
+<polygon fill="#ffffff" stroke="#000000" points="118.426,-785.2 3.5241,-785.2 3.5241,-763.2 118.426,-763.2 118.426,-785.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="60.975" y="-771.2">デニス・リッチー 1988</text>
+</a>
+</g>
+</g>
+<!-- デニス・リッチー 1978&#45;&gt;デニス・リッチー 1988 -->
+<g class="edge" id="edge6">
+<title>デニス・リッチー 1978-&gt;デニス・リッチー 1988</title>
+<path fill="none" stroke="#000000" d="M 60.975 -896.775 C 60.975 -874.314 60.975 -824.099 60.975 -795.397" />
+<polygon fill="#000000" stroke="#000000" points="64.4751,-795.219 60.975,-785.219 57.4751,-795.219 64.4751,-795.219" />
+</g>
+<!-- 『プログラミング言語C』 第2版 -->
+<g class="node" id="node7">
+<title>『プログラミング言語C』 第2版</title>
+<polygon fill="#ffc000" stroke="#000000" points="186.918,-451.2 41.032,-451.2 41.032,-429.2 186.918,-429.2 186.918,-451.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="113.975" y="-437.2">『プログラミング言語C』 第2版</text>
+</g>
+<!-- 『プログラミング言語C』 初版&#45;&gt;『プログラミング言語C』 第2版 -->
+<g class="edge" id="edge43">
+<title>『プログラミング言語C』 初版-&gt;『プログラミング言語C』 第2版</title>
+<path fill="none" stroke="#000000" d="M 113.975 -537.049 C 113.975 -519.264 113.975 -484.172 113.975 -461.471" />
+<polygon fill="#000000" stroke="#000000" points="117.475,-461.452 113.975,-451.452 110.475,-461.452 117.475,-461.452" />
+</g>
+<!-- デニス・リッチー 1988&#45;&gt;『プログラミング言語C』 第2版 -->
+<g class="edge" id="edge7">
+<title>デニス・リッチー 1988-&gt;『プログラミング言語C』 第2版</title>
+<path fill="none" stroke="#000000" d="M 55.4943 -763.113 C 38.8929 -727.922 -7.6973 -616.117 25.975 -532.2 C 38.6348 -500.65 67.8483 -473.801 89.1542 -457.393" />
+<polygon fill="#000000" stroke="#000000" points="91.5144,-460 97.4463,-451.221 87.3347,-454.385 91.5144,-460" />
+</g>
+<!-- ケン・トンプソン 1969 -->
+<g class="node" id="node8">
+<title>ケン・トンプソン 1969</title>
+<polygon fill="#ffffff" stroke="#000000" points="988.048,-1140.2 867.902,-1140.2 867.902,-1118.2 988.048,-1118.2 988.048,-1140.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="927.975" y="-1126.2">ケン・トンプソン 1969</text>
+</g>
+<!-- ケン・トンプソン 1969&#45;&gt;UNIX 1969 -->
+<g class="edge" id="edge16">
+<title>ケン・トンプソン 1969-&gt;UNIX 1969</title>
+<path fill="none" stroke="#000000" d="M 916.958 -1117.98 C 900.943 -1101.31 870.869 -1068.57 849.975 -1037.2 C 809.868 -976.982 813.673 -953.955 775.975 -892.2 C 753.812 -855.894 724.006 -816.268 706.216 -793.416" />
+<polygon fill="#000000" stroke="#000000" points="708.951,-791.232 700.027,-785.521 703.442,-795.55 708.951,-791.232" />
+</g>
+<!-- ケン・トンプソン 1971 -->
+<g class="node" id="node9">
+<title>ケン・トンプソン 1971</title>
+<g id="a_node9"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="ケン・トンプソン 1971&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3">
+<polygon fill="#ffffff" stroke="#000000" points="988.048,-1032.2 867.902,-1032.2 867.902,-1010.2 988.048,-1010.2 988.048,-1032.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="927.975" y="-1018.2">ケン・トンプソン 1971</text>
+</a>
+</g>
+</g>
+<!-- ケン・トンプソン 1969&#45;&gt;ケン・トンプソン 1971 -->
+<g class="edge" id="edge9">
+<title>ケン・トンプソン 1969-&gt;ケン・トンプソン 1971</title>
+<path fill="none" stroke="#000000" d="M 927.975 -1118.05 C 927.975 -1100.26 927.975 -1065.17 927.975 -1042.47" />
+<polygon fill="#000000" stroke="#000000" points="931.475,-1042.45 927.975,-1032.45 924.475,-1042.45 931.475,-1042.45" />
+</g>
+<!-- ケン・トンプソン 1969&#45;&gt;B言語 1969 -->
+<g class="edge" id="edge23">
+<title>ケン・トンプソン 1969-&gt;B言語 1969</title>
+<path fill="none" stroke="#000000" d="M 867.637 -1119.28 C 740.18 -1098.33 445.326 -1049.86 324.294 -1029.96" />
+<polygon fill="#000000" stroke="#000000" points="324.599,-1026.47 314.163,-1028.3 323.463,-1033.38 324.599,-1026.47" />
+</g>
+<!-- Thompson Shell 1971 -->
+<g class="node" id="node10">
+<title>Thompson Shell 1971</title>
+<polygon fill="#ffffff" stroke="#000000" points="1206.31,-852.2 1101.64,-852.2 1101.64,-830.2 1206.31,-830.2 1206.31,-852.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1153.975" y="-838.2">Thompson Shell 1971</text>
+</g>
+<!-- ケン・トンプソン 1971&#45;&gt;Thompson Shell 1971 -->
+<g class="edge" id="edge10">
+<title>ケン・トンプソン 1971-&gt;Thompson Shell 1971</title>
+<path fill="none" stroke="#000000" d="M 942.112 -1009.94 C 980.412 -979.436 1086.37 -895.047 1132.29 -858.474" />
+<polygon fill="#000000" stroke="#000000" points="1134.49,-861.194 1140.13,-852.226 1130.13,-855.718 1134.49,-861.194" />
+</g>
+<!-- ケン・トンプソン 1992 -->
+<g class="node" id="node11">
+<title>ケン・トンプソン 1992</title>
+<g id="a_node11"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="ケン・トンプソン 1992&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3">
+<polygon fill="#ffffff" stroke="#000000" points="988.048,-919.2 867.902,-919.2 867.902,-897.2 988.048,-897.2 988.048,-919.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="927.975" y="-905.2">ケン・トンプソン 1992</text>
+</a>
+</g>
+</g>
+<!-- ケン・トンプソン 1971&#45;&gt;ケン・トンプソン 1992 -->
+<g class="edge" id="edge11">
+<title>ケン・トンプソン 1971-&gt;ケン・トンプソン 1992</title>
+<path fill="none" stroke="#000000" d="M 927.975 -1009.95 C 927.975 -991.253 927.975 -953.472 927.975 -929.579" />
+<polygon fill="#000000" stroke="#000000" points="931.475,-929.403 927.975,-919.403 924.475,-929.403 931.475,-929.403" />
+</g>
+<!-- C shell 1979 -->
+<g class="node" id="node37">
+<title>C shell 1979</title>
+<polygon fill="#92d050" stroke="#000000" points="1206.97,-339.6 1120.97,-339.6 1120.97,-317.6 1206.97,-317.6 1206.97,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1163.975" y="-325.6">C shell 1979</text>
+</g>
+<!-- Thompson Shell 1971&#45;&gt;C shell 1979 -->
+<g class="edge" id="edge56">
+<title>Thompson Shell 1971-&gt;C shell 1979</title>
+<path fill="none" stroke="#000000" d="M 1155.65 -829.991 C 1158.72 -808.342 1164.97 -759.245 1164.97 -717.7 C 1164.97 -717.7 1164.97 -717.7 1164.97 -440.2 C 1164.97 -408.707 1164.57 -372.216 1164.28 -349.77" />
+<polygon fill="#000000" stroke="#000000" points="1167.78,-349.639 1164.14,-339.688 1160.78,-349.734 1167.78,-349.639" />
+</g>
+<!-- ケン・トンプソン 2009 -->
+<g class="node" id="node12">
+<title>ケン・トンプソン 2009</title>
+<polygon fill="#ffffff" stroke="#000000" points="988.048,-785.2 867.902,-785.2 867.902,-763.2 988.048,-763.2 988.048,-785.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="927.975" y="-771.2">ケン・トンプソン 2009</text>
+</g>
+<!-- ケン・トンプソン 1992&#45;&gt;ケン・トンプソン 2009 -->
+<g class="edge" id="edge12">
+<title>ケン・トンプソン 1992-&gt;ケン・トンプソン 2009</title>
+<path fill="none" stroke="#000000" d="M 927.975 -896.775 C 927.975 -874.314 927.975 -824.099 927.975 -795.397" />
+<polygon fill="#000000" stroke="#000000" points="931.475,-795.219 927.975,-785.219 924.475,-795.219 931.475,-795.219" />
+</g>
+<!-- UTF&#45;8  -->
+<g class="node" id="node13">
+<title>UTF-8 </title>
+<polygon fill="#ffffff" stroke="#000000" points="1109.97,-785.2 1023.97,-785.2 1023.97,-763.2 1109.97,-763.2 1109.97,-785.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1066.975" y="-771.2">UTF-8 </text>
+</g>
+<!-- ケン・トンプソン 1992&#45;&gt;UTF&#45;8  -->
+<g class="edge" id="edge13">
+<title>ケン・トンプソン 1992-&gt;UTF-8 </title>
+<path fill="none" stroke="#000000" d="M 939.826 -896.775 C 963.95 -873.519 1018.94 -820.509 1048.06 -792.432" />
+<polygon fill="#000000" stroke="#000000" points="1050.77,-794.679 1055.54,-785.219 1045.92,-789.64 1050.77,-794.679" />
+</g>
+<!-- Go言語 2009 -->
+<g class="node" id="node20">
+<title>Go言語 2009</title>
+<polygon fill="#ffff00" stroke="#000000" points="610.975,-228 524.975,-228 524.975,-206 610.975,-206 610.975,-228" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="567.975" y="-214">Go言語 2009</text>
+</g>
+<!-- ケン・トンプソン 2009&#45;&gt;Go言語 2009 -->
+<g class="edge" id="edge24">
+<title>ケン・トンプソン 2009-&gt;Go言語 2009</title>
+<path fill="none" stroke="#000000" d="M 916.533 -763.187 C 898.124 -744.222 863.975 -703.361 863.975 -661.2 C 863.975 -661.2 863.975 -661.2 863.975 -328.6 C 863.975 -277.277 706.199 -241.408 621.027 -225.785" />
+<polygon fill="#000000" stroke="#000000" points="621.478,-222.31 611.016,-223.98 620.236,-229.199 621.478,-222.31" />
+</g>
+<!-- UNIX V5:1974 -->
+<g class="node" id="node15">
+<title>UNIX V5:1974</title>
+<g id="a_node15"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="UNIX V5:1974&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/UNIX">
+<polygon fill="#ffffff" stroke="#000000" points="733.975,-559.2 647.975,-559.2 647.975,-537.2 733.975,-537.2 733.975,-559.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="690.975" y="-545.2">UNIX V5:1974</text>
+</a>
+</g>
+</g>
+<!-- UNIX V4:C言語開発:1973&#45;&gt;UNIX V5:1974 -->
+<g class="edge" id="edge19">
+<title>UNIX V4:C言語開発:1973-&gt;UNIX V5:1974</title>
+<path fill="none" stroke="#000000" d="M 690.975 -649.952 C 690.975 -631.253 690.975 -593.472 690.975 -569.579" />
+<polygon fill="#000000" stroke="#000000" points="694.475,-569.403 690.975,-559.403 687.475,-569.403 694.475,-569.403" />
+</g>
+<!-- UNIX V6:1975 -->
+<g class="node" id="node16">
+<title>UNIX V6:1975</title>
+<g id="a_node16"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="UNIX V6:1975&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/UNIX">
+<polygon fill="#ffffff" stroke="#000000" points="733.975,-451.2 647.975,-451.2 647.975,-429.2 733.975,-429.2 733.975,-451.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="690.975" y="-437.2">UNIX V6:1975</text>
+</a>
+</g>
+</g>
+<!-- UNIX V5:1974&#45;&gt;UNIX V6:1975 -->
+<g class="edge" id="edge20">
+<title>UNIX V5:1974-&gt;UNIX V6:1975</title>
+<path fill="none" stroke="#000000" d="M 690.975 -537.049 C 690.975 -519.264 690.975 -484.172 690.975 -461.471" />
+<polygon fill="#000000" stroke="#000000" points="694.475,-461.452 690.975,-451.452 687.475,-461.452 694.475,-461.452" />
+</g>
+<!-- UNIX V7:1979 -->
+<g class="node" id="node17">
+<title>UNIX V7:1979</title>
+<g id="a_node17"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="UNIX V7:1979&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/UNIX">
+<polygon fill="#ffffff" stroke="#000000" points="733.975,-339.6 647.975,-339.6 647.975,-317.6 733.975,-317.6 733.975,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="690.975" y="-325.6">UNIX V7:1979</text>
+</a>
+</g>
+</g>
+<!-- UNIX V6:1975&#45;&gt;UNIX V7:1979 -->
+<g class="edge" id="edge21">
+<title>UNIX V6:1975-&gt;UNIX V7:1979</title>
+<path fill="none" stroke="#000000" d="M 690.975 -429.091 C 690.975 -410.625 690.975 -373.311 690.975 -349.714" />
+<polygon fill="#000000" stroke="#000000" points="694.475,-349.664 690.975,-339.664 687.475,-349.664 694.475,-349.664" />
+</g>
+<!-- BSD 1BSD:1978 -->
+<g class="node" id="node18">
+<title>BSD 1BSD:1978</title>
+<polygon fill="#ffffff" stroke="#000000" points="1084.97,-339.6 998.975,-339.6 998.975,-317.6 1084.97,-317.6 1084.97,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1041.975" y="-325.6">BSD 1BSD:1978</text>
+</g>
+<!-- UNIX V6:1975&#45;&gt;BSD 1BSD:1978 -->
+<g class="edge" id="edge22">
+<title>UNIX V6:1975-&gt;BSD 1BSD:1978</title>
+<path fill="none" stroke="#000000" d="M 725.591 -429.194 C 789.633 -408.832 926.526 -365.307 997.398 -342.773" />
+<polygon fill="#000000" stroke="#000000" points="998.89,-345.971 1007.36,-339.606 996.769,-339.301 998.89,-345.971" />
+</g>
+<!-- BSD 2BSD:1979 -->
+<g class="node" id="node35">
+<title>BSD 2BSD:1979</title>
+<polygon fill="#ffffff" stroke="#000000" points="1084.97,-228 998.975,-228 998.975,-206 1084.97,-206 1084.97,-228" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1041.975" y="-214">BSD 2BSD:1979</text>
+</g>
+<!-- BSD 1BSD:1978&#45;&gt;BSD 2BSD:1979 -->
+<g class="edge" id="edge49">
+<title>BSD 1BSD:1978-&gt;BSD 2BSD:1979</title>
+<path fill="none" stroke="#000000" d="M 1041.97 -317.491 C 1041.97 -299.025 1041.97 -261.711 1041.97 -238.114" />
+<polygon fill="#000000" stroke="#000000" points="1045.48,-238.064 1041.97,-228.064 1038.48,-238.064 1045.48,-238.064" />
+</g>
+<!-- B言語 1969&#45;&gt;C言語 1972 -->
+<g class="edge" id="edge30">
+<title>B言語 1969-&gt;C言語 1972</title>
+<path fill="none" stroke="#000000" d="M 270.975 -1009.95 C 270.975 -991.253 270.975 -953.472 270.975 -929.579" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-929.403 270.975,-919.403 267.475,-929.403 274.475,-929.403" />
+</g>
+<!-- CPL 1963 -->
+<g class="node" id="node21">
+<title>CPL 1963</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-1243.2 227.975,-1243.2 227.975,-1221.2 313.975,-1221.2 313.975,-1243.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-1229.2">CPL 1963</text>
+</g>
+<!-- BCPL 1967 -->
+<g class="node" id="node22">
+<title>BCPL 1967</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-1140.2 227.975,-1140.2 227.975,-1118.2 313.975,-1118.2 313.975,-1140.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-1126.2">BCPL 1967</text>
+</g>
+<!-- CPL 1963&#45;&gt;BCPL 1967 -->
+<g class="edge" id="edge27">
+<title>CPL 1963-&gt;BCPL 1967</title>
+<path fill="none" stroke="#000000" d="M 270.975 -1221.18 C 270.975 -1204.38 270.975 -1172.08 270.975 -1150.58" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-1150.46 270.975,-1140.46 267.475,-1150.46 274.475,-1150.46" />
+</g>
+<!-- BCPL 1967&#45;&gt;B言語 1969 -->
+<g class="edge" id="edge28">
+<title>BCPL 1967-&gt;B言語 1969</title>
+<path fill="none" stroke="#000000" d="M 270.975 -1118.05 C 270.975 -1100.26 270.975 -1065.17 270.975 -1042.47" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-1042.45 270.975,-1032.45 267.475,-1042.45 274.475,-1042.45" />
+</g>
+<!-- C言語 1973 -->
+<g class="node" id="node24">
+<title>C言語 1973</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-785.2 227.975,-785.2 227.975,-763.2 313.975,-763.2 313.975,-785.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-771.2">C言語 1973</text>
+</g>
+<!-- C言語 1972&#45;&gt;C言語 1973 -->
+<g class="edge" id="edge32">
+<title>C言語 1972-&gt;C言語 1973</title>
+<path fill="none" stroke="#000000" d="M 270.975 -896.775 C 270.975 -874.314 270.975 -824.099 270.975 -795.397" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-795.219 270.975,-785.219 267.475,-795.219 274.475,-795.219" />
+</g>
+<!-- C言語 1973&#45;&gt;UNIX V4:C言語開発:1973 -->
+<g class="edge" id="edge18">
+<title>C言語 1973-&gt;UNIX V4:C言語開発:1973</title>
+<path fill="none" stroke="#000000" d="M 312.011 -763.159 C 389.268 -742.374 556.089 -697.491 640.241 -674.85" />
+<polygon fill="#000000" stroke="#000000" points="641.335,-678.18 650.082,-672.202 639.516,-671.42 641.335,-678.18" />
+</g>
+<!-- C言語 1978 -->
+<g class="node" id="node25">
+<title>C言語 1978</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-672.2 227.975,-672.2 227.975,-650.2 313.975,-650.2 313.975,-672.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-658.2">C言語 1978</text>
+</g>
+<!-- C言語 1973&#45;&gt;C言語 1978 -->
+<g class="edge" id="edge33">
+<title>C言語 1973-&gt;C言語 1978</title>
+<path fill="none" stroke="#000000" d="M 270.975 -762.952 C 270.975 -744.253 270.975 -706.472 270.975 -682.579" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-682.403 270.975,-672.403 267.475,-682.403 274.475,-682.403" />
+</g>
+<!-- C言語 1978&#45;&gt;『プログラミング言語C』 初版 -->
+<g class="edge" id="edge42">
+<title>C言語 1978-&gt;『プログラミング言語C』 初版</title>
+<path fill="none" stroke="#000000" d="M 257.71 -650.127 C 243.464 -638.372 220.033 -619.428 198.975 -604.2 C 179.885 -590.395 157.627 -575.782 140.677 -564.946" />
+<polygon fill="#000000" stroke="#000000" points="142.178,-561.753 131.86,-559.343 138.423,-567.661 142.178,-561.753" />
+</g>
+<!-- C言語 1988 -->
+<g class="node" id="node26">
+<title>C言語 1988</title>
+<polygon fill="#ffff00" stroke="#000000" points="313.975,-559.2 227.975,-559.2 227.975,-537.2 313.975,-537.2 313.975,-559.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-545.2">C言語 1988</text>
+</g>
+<!-- C言語 1978&#45;&gt;C言語 1988 -->
+<g class="edge" id="edge34">
+<title>C言語 1978-&gt;C言語 1988</title>
+<path fill="none" stroke="#000000" d="M 270.975 -649.952 C 270.975 -631.253 270.975 -593.472 270.975 -569.579" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-569.403 270.975,-559.403 267.475,-569.403 274.475,-569.403" />
+</g>
+<!-- C言語 1988&#45;&gt;『プログラミング言語C』 第2版 -->
+<g class="edge" id="edge45">
+<title>C言語 1988-&gt;『プログラミング言語C』 第2版</title>
+<path fill="none" stroke="#000000" d="M 254.765 -537.049 C 227.265 -518.132 171.303 -479.635 138.826 -457.295" />
+<polygon fill="#000000" stroke="#000000" points="140.555,-454.236 130.332,-451.452 136.588,-460.003 140.555,-454.236" />
+</g>
+<!-- C言語 (C89)1989 -->
+<g class="node" id="node27">
+<title>C言語 (C89)1989</title>
+<polygon fill="#ffff00" stroke="#000000" points="318.628,-451.2 223.322,-451.2 223.322,-429.2 318.628,-429.2 318.628,-451.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-437.2">C言語 (C89)1989</text>
+</g>
+<!-- C言語 1988&#45;&gt;C言語 (C89)1989 -->
+<g class="edge" id="edge35">
+<title>C言語 1988-&gt;C言語 (C89)1989</title>
+<path fill="none" stroke="#000000" d="M 270.975 -537.049 C 270.975 -519.264 270.975 -484.172 270.975 -461.471" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-461.452 270.975,-451.452 267.475,-461.452 274.475,-461.452" />
+</g>
+<!-- C言語 (C99)1999 -->
+<g class="node" id="node28">
+<title>C言語 (C99)1999</title>
+<polygon fill="#ffff00" stroke="#000000" points="318.628,-339.6 223.322,-339.6 223.322,-317.6 318.628,-317.6 318.628,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-325.6">C言語 (C99)1999</text>
+</g>
+<!-- C言語 (C89)1989&#45;&gt;C言語 (C99)1999 -->
+<g class="edge" id="edge36">
+<title>C言語 (C89)1989-&gt;C言語 (C99)1999</title>
+<path fill="none" stroke="#000000" d="M 270.975 -429.091 C 270.975 -410.625 270.975 -373.311 270.975 -349.714" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-349.664 270.975,-339.664 267.475,-349.664 274.475,-349.664" />
+</g>
+<!-- C言語 (C99)1999&#45;&gt;Go言語 2009 -->
+<g class="edge" id="edge25">
+<title>C言語 (C99)1999-&gt;Go言語 2009</title>
+<path fill="none" stroke="#000000" d="M 300.265 -317.594 C 354.053 -297.383 468.571 -254.352 528.911 -231.678" />
+<polygon fill="#000000" stroke="#000000" points="530.335,-234.882 538.465,-228.089 527.873,-228.33 530.335,-234.882" />
+</g>
+<!-- ブライアン・
+カーニハン 1969 -->
+<g class="node" id="node29">
+<title>ブライアン・
+カーニハン 1969</title>
+<polygon fill="#ffffff" stroke="#000000" points="561.77,-924.2 472.18,-924.2 472.18,-892.2 561.77,-892.2 561.77,-924.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-911.2">ブライアン・</text>
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-899.2">カーニハン 1969</text>
+</g>
+<!-- ブライアン・
+カーニハン 1969&#45;&gt;UNIX 1969 -->
+<g class="edge" id="edge15">
+<title>ブライアン・
+カーニハン 1969-&gt;UNIX 1969</title>
+<path fill="none" stroke="#000000" d="M 529.439 -892.159 C 543.06 -875.331 566.136 -848.792 589.975 -830.2 C 610.584 -814.127 636.393 -799.902 656.762 -789.812" />
+<polygon fill="#000000" stroke="#000000" points="658.517,-792.85 665.988,-785.338 655.463,-786.552 658.517,-792.85" />
+</g>
+<!-- ブライアン・
+カーニハン 1978 -->
+<g class="node" id="node30">
+<title>ブライアン・
+カーニハン 1978</title>
+<polygon fill="#ffffff" stroke="#000000" points="561.77,-790.2 472.18,-790.2 472.18,-758.2 561.77,-758.2 561.77,-790.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-777.2">ブライアン・</text>
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-765.2">カーニハン 1978</text>
+</g>
+<!-- ブライアン・
+カーニハン 1969&#45;&gt;ブライアン・
+カーニハン 1978 -->
+<g class="edge" id="edge38">
+<title>ブライアン・
+カーニハン 1969-&gt;ブライアン・
+カーニハン 1978</title>
+<path fill="none" stroke="#000000" d="M 516.975 -892.036 C 516.975 -869.4 516.975 -827.982 516.975 -800.772" />
+<polygon fill="#000000" stroke="#000000" points="520.475,-800.421 516.975,-790.421 513.475,-800.421 520.475,-800.421" />
+</g>
+<!-- ブライアン・
+カーニハン 1978&#45;&gt;『プログラミング言語C』 初版 -->
+<g class="edge" id="edge40">
+<title>ブライアン・
+カーニハン 1978-&gt;『プログラミング言語C』 初版</title>
+<path fill="none" stroke="#000000" d="M 496.735 -758.151 C 463.581 -732.315 395.06 -680.801 331.975 -645.2 C 271.771 -611.225 197.421 -580.326 152.951 -562.93" />
+<polygon fill="#000000" stroke="#000000" points="153.982,-559.575 143.393,-559.219 151.449,-566.101 153.982,-559.575" />
+</g>
+<!-- ブライアン・
+カーニハン 1979 -->
+<g class="node" id="node31">
+<title>ブライアン・
+カーニハン 1979</title>
+<polygon fill="#ffffff" stroke="#000000" points="561.77,-677.2 472.18,-677.2 472.18,-645.2 561.77,-645.2 561.77,-677.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-664.2">ブライアン・</text>
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-652.2">カーニハン 1979</text>
+</g>
+<!-- ブライアン・
+カーニハン 1978&#45;&gt;ブライアン・
+カーニハン 1979 -->
+<g class="edge" id="edge39">
+<title>ブライアン・
+カーニハン 1978-&gt;ブライアン・
+カーニハン 1979</title>
+<path fill="none" stroke="#000000" d="M 516.975 -758.01 C 516.975 -739.633 516.975 -709.386 516.975 -687.587" />
+<polygon fill="#000000" stroke="#000000" points="520.475,-687.36 516.975,-677.36 513.475,-687.36 520.475,-687.36" />
+</g>
+<!-- ブライアン・
+カーニハン 1988 -->
+<g class="node" id="node32">
+<title>ブライアン・
+カーニハン 1988</title>
+<polygon fill="#ffffff" stroke="#000000" points="561.77,-564.2 472.18,-564.2 472.18,-532.2 561.77,-532.2 561.77,-564.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-551.2">ブライアン・</text>
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="516.975" y="-539.2">カーニハン 1988</text>
+</g>
+<!-- ブライアン・
+カーニハン 1979&#45;&gt;ブライアン・
+カーニハン 1988 -->
+<g class="edge" id="edge41">
+<title>ブライアン・
+カーニハン 1979-&gt;ブライアン・
+カーニハン 1988</title>
+<path fill="none" stroke="#000000" d="M 516.975 -645.01 C 516.975 -626.633 516.975 -596.386 516.975 -574.587" />
+<polygon fill="#000000" stroke="#000000" points="520.475,-574.36 516.975,-564.36 513.475,-574.36 520.475,-574.36" />
+</g>
+<!-- AWK  -->
+<g class="node" id="node33">
+<title>AWK </title>
+<polygon fill="#ffff00" stroke="#000000" points="435.975,-559.2 349.975,-559.2 349.975,-537.2 435.975,-537.2 435.975,-559.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="392.975" y="-545.2">AWK </text>
+</g>
+<!-- ブライアン・
+カーニハン 1979&#45;&gt;AWK  -->
+<g class="edge" id="edge46">
+<title>ブライアン・
+カーニハン 1979-&gt;AWK </title>
+<path fill="none" stroke="#000000" d="M 499.209 -645.01 C 476.225 -624.065 436.321 -587.701 412.507 -565.999" />
+<polygon fill="#000000" stroke="#000000" points="414.845,-563.394 405.096,-559.245 410.13,-568.568 414.845,-563.394" />
+</g>
+<!-- ブライアン・
+カーニハン 1988&#45;&gt;『プログラミング言語C』 第2版 -->
+<g class="edge" id="edge44">
+<title>ブライアン・
+カーニハン 1988-&gt;『プログラミング言語C』 第2版</title>
+<path fill="none" stroke="#000000" d="M 471.919 -536.125 C 396.283 -515.856 244.282 -475.121 164.892 -453.845" />
+<polygon fill="#000000" stroke="#000000" points="165.681,-450.433 155.115,-451.225 163.868,-457.195 165.681,-450.433" />
+</g>
+<!-- ビル・ジョイ 1978 -->
+<g class="node" id="node34">
+<title>ビル・ジョイ 1978</title>
+<g id="a_node34"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="ビル・ジョイ 1978&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A4">
+<polygon fill="#ffffff" stroke="#000000" points="1457.03,-559.2 1364.92,-559.2 1364.92,-537.2 1457.03,-537.2 1457.03,-559.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="1410.975" y="-545.2">ビル・ジョイ 1978</text>
+</a>
+</g>
+</g>
+<!-- ビル・ジョイ 1978&#45;&gt;BSD 1BSD:1978 -->
+<g class="edge" id="edge48">
+<title>ビル・ジョイ 1978-&gt;BSD 1BSD:1978</title>
+<path fill="none" stroke="#000000" d="M 1392.42 -537.159 C 1332.14 -501.284 1141.54 -387.851 1069.72 -345.109" />
+<polygon fill="#000000" stroke="#000000" points="1071.17,-341.9 1060.78,-339.793 1067.59,-347.915 1071.17,-341.9" />
+</g>
+<!-- ビル・ジョイ 1979 -->
+<g class="node" id="node36">
+<title>ビル・ジョイ 1979</title>
+<g id="a_node36"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="ビル・ジョイ 1979&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A4">
+<polygon fill="#ffffff" stroke="#000000" points="1457.03,-451.2 1364.92,-451.2 1364.92,-429.2 1457.03,-429.2 1457.03,-451.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="1410.975" y="-437.2">ビル・ジョイ 1979</text>
+</a>
+</g>
+</g>
+<!-- ビル・ジョイ 1978&#45;&gt;ビル・ジョイ 1979 -->
+<g class="edge" id="edge50">
+<title>ビル・ジョイ 1978-&gt;ビル・ジョイ 1979</title>
+<path fill="none" stroke="#000000" d="M 1410.97 -537.049 C 1410.97 -519.264 1410.97 -484.172 1410.97 -461.471" />
+<polygon fill="#000000" stroke="#000000" points="1414.48,-461.452 1410.97,-451.452 1407.48,-461.452 1414.48,-461.452" />
+</g>
+<!-- ビル・ジョイ 1979&#45;&gt;C shell 1979 -->
+<g class="edge" id="edge51">
+<title>ビル・ジョイ 1979-&gt;C shell 1979</title>
+<path fill="none" stroke="#000000" d="M 1386.39 -429.091 C 1341.91 -408.995 1248.03 -366.58 1197.64 -343.81" />
+<polygon fill="#000000" stroke="#000000" points="1199.02,-340.592 1188.46,-339.664 1196.13,-346.971 1199.02,-340.592" />
+<text font-family="Times,serif" font-size="8" fill="#000000" text-anchor="middle" x="1302.6382" y="-382">開発</text>
+</g>
+<!-- vi 1979 -->
+<g class="node" id="node38">
+<title>vi 1979</title>
+<polygon fill="#ffffff" stroke="#000000" points="1328.97,-339.6 1242.97,-339.6 1242.97,-317.6 1328.97,-317.6 1328.97,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1285.975" y="-325.6">vi 1979</text>
+</g>
+<!-- ビル・ジョイ 1979&#45;&gt;vi 1979 -->
+<g class="edge" id="edge52">
+<title>ビル・ジョイ 1979-&gt;vi 1979</title>
+<path fill="none" stroke="#000000" d="M 1398.53 -429.091 C 1376.91 -409.789 1332.23 -369.896 1306.13 -346.598" />
+<polygon fill="#000000" stroke="#000000" points="1308.16,-343.713 1298.37,-339.664 1303.5,-348.935 1308.16,-343.713" />
+<text font-family="Times,serif" font-size="8" fill="#000000" text-anchor="middle" x="1360.6382" y="-382">開発</text>
+</g>
+<!-- ビル・ジョイ 1991 -->
+<g class="node" id="node39">
+<title>ビル・ジョイ 1991</title>
+<g id="a_node39"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="ビル・ジョイ 1991&#10;" target="_blank" xlink:href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A4">
+<polygon fill="#ffffff" stroke="#000000" points="1457.03,-339.6 1364.92,-339.6 1364.92,-317.6 1457.03,-317.6 1457.03,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#0563c1" text-anchor="middle" x="1410.975" y="-325.6">ビル・ジョイ 1991</text>
+</a>
+</g>
+</g>
+<!-- ビル・ジョイ 1979&#45;&gt;ビル・ジョイ 1991 -->
+<g class="edge" id="edge53">
+<title>ビル・ジョイ 1979-&gt;ビル・ジョイ 1991</title>
+<path fill="none" stroke="#000000" d="M 1410.97 -429.091 C 1410.97 -410.625 1410.97 -373.311 1410.97 -349.714" />
+<polygon fill="#000000" stroke="#000000" points="1414.48,-349.664 1410.97,-339.664 1407.48,-349.664 1414.48,-349.664" />
+</g>
+<!-- C shell 1979&#45;&gt;BSD 2BSD:1979 -->
+<g class="edge" id="edge54">
+<title>C shell 1979-&gt;BSD 2BSD:1979</title>
+<path fill="none" stroke="#000000" d="M 1151.83 -317.491 C 1130.73 -298.189 1087.12 -258.296 1061.65 -234.998" />
+<polygon fill="#000000" stroke="#000000" points="1063.81,-232.231 1054.07,-228.064 1059.09,-237.396 1063.81,-232.231" />
+<text font-family="Times,serif" font-size="8" fill="#000000" text-anchor="middle" x="1116.4186" y="-270.4">組込</text>
+</g>
+<!-- vi 1979&#45;&gt;BSD 2BSD:1979 -->
+<g class="edge" id="edge55">
+<title>vi 1979-&gt;BSD 2BSD:1979</title>
+<path fill="none" stroke="#000000" d="M 1261.69 -317.491 C 1217.84 -297.437 1125.4 -255.156 1075.54 -232.352" />
+<polygon fill="#000000" stroke="#000000" points="1076.71,-229.04 1066.16,-228.064 1073.8,-235.406 1076.71,-229.04" />
+<text font-family="Times,serif" font-size="8" fill="#000000" text-anchor="middle" x="1181.4186" y="-270.4">組込</text>
+</g>
+<!-- Vim 1987 -->
+<g class="node" id="node40">
+<title>Vim 1987</title>
+<polygon fill="#ffffff" stroke="#000000" points="1328.97,-228 1242.97,-228 1242.97,-206 1328.97,-206 1328.97,-228" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1285.975" y="-214">Vim 1987</text>
+</g>
+<!-- vi 1979&#45;&gt;Vim 1987 -->
+<g class="edge" id="edge57">
+<title>vi 1979-&gt;Vim 1987</title>
+<path fill="none" stroke="#000000" d="M 1285.97 -317.491 C 1285.97 -299.025 1285.97 -261.711 1285.97 -238.114" />
+<polygon fill="#000000" stroke="#000000" points="1289.48,-238.064 1285.97,-228.064 1282.48,-238.064 1289.48,-238.064" />
+</g>
+<!-- Oak 1991 -->
+<g class="node" id="node43">
+<title>Oak 1991</title>
+<polygon fill="#ffffff" stroke="#000000" points="1529.97,-228 1443.97,-228 1443.97,-206 1529.97,-206 1529.97,-228" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1486.975" y="-214">Oak 1991</text>
+</g>
+<!-- ビル・ジョイ 1991&#45;&gt;Oak 1991 -->
+<g class="edge" id="edge61">
+<title>ビル・ジョイ 1991-&gt;Oak 1991</title>
+<path fill="none" stroke="#000000" d="M 1418.54 -317.491 C 1431.4 -298.607 1457.68 -260.013 1473.67 -236.534" />
+<polygon fill="#000000" stroke="#000000" points="1476.7,-238.299 1479.44,-228.064 1470.92,-234.359 1476.7,-238.299" />
+</g>
+<!-- Java 1994 -->
+<g class="node" id="node41">
+<title>Java 1994</title>
+<polygon fill="#ffff00" stroke="#000000" points="1529.97,-22 1443.97,-22 1443.97,0 1529.97,0 1529.97,-22" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1486.975" y="-8">Java 1994</text>
+</g>
+<!-- Oak 1994 -->
+<g class="node" id="node42">
+<title>Oak 1994</title>
+<polygon fill="#ffffff" stroke="#000000" points="1529.97,-125 1443.97,-125 1443.97,-103 1529.97,-103 1529.97,-125" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1486.975" y="-111">Oak 1994</text>
+</g>
+<!-- Oak 1994&#45;&gt;Java 1994 -->
+<g class="edge" id="edge58">
+<title>Oak 1994-&gt;Java 1994</title>
+<path fill="none" stroke="#000000" d="M 1486.97 -102.977 C 1486.97 -86.1837 1486.97 -53.8777 1486.97 -32.3757" />
+<polygon fill="#000000" stroke="#000000" points="1490.48,-32.2558 1486.97,-22.2558 1483.48,-32.2558 1490.48,-32.2558" />
+</g>
+<!-- Oak 1991&#45;&gt;Oak 1994 -->
+<g class="edge" id="edge59">
+<title>Oak 1991-&gt;Oak 1994</title>
+<path fill="none" stroke="#000000" d="M 1486.97 -205.977 C 1486.97 -189.184 1486.97 -156.878 1486.97 -135.376" />
+<polygon fill="#000000" stroke="#000000" points="1490.48,-135.256 1486.97,-125.256 1483.48,-135.256 1490.48,-135.256" />
+</g>
+<!-- ジェームズ・ゴスリン 1991 -->
+<g class="node" id="node44">
+<title>ジェームズ・ゴスリン 1991</title>
+<polygon fill="#ffffff" stroke="#000000" points="1632.71,-339.6 1495.24,-339.6 1495.24,-317.6 1632.71,-317.6 1632.71,-339.6" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1563.975" y="-325.6">ジェームズ・ゴスリン 1991</text>
+</g>
+<!-- ジェームズ・ゴスリン 1991&#45;&gt;Oak 1991 -->
+<g class="edge" id="edge60">
+<title>ジェームズ・ゴスリン 1991-&gt;Oak 1991</title>
+<path fill="none" stroke="#000000" d="M 1556.31 -317.491 C 1543.28 -298.607 1516.65 -260.013 1500.45 -236.534" />
+<polygon fill="#000000" stroke="#000000" points="1503.17,-234.307 1494.61,-228.064 1497.41,-238.282 1503.17,-234.307" />
+</g>
+<!-- ジェームズ・ゴスリン 1981 -->
+<g class="node" id="node45">
+<title>ジェームズ・ゴスリン 1981</title>
+<polygon fill="#ffffff" stroke="#000000" points="1632.71,-451.2 1495.24,-451.2 1495.24,-429.2 1632.71,-429.2 1632.71,-451.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1563.975" y="-437.2">ジェームズ・ゴスリン 1981</text>
+</g>
+<!-- ジェームズ・ゴスリン 1981&#45;&gt;ジェームズ・ゴスリン 1991 -->
+<g class="edge" id="edge62">
+<title>ジェームズ・ゴスリン 1981-&gt;ジェームズ・ゴスリン 1991</title>
+<path fill="none" stroke="#000000" d="M 1563.97 -429.091 C 1563.97 -410.625 1563.97 -373.311 1563.97 -349.714" />
+<polygon fill="#000000" stroke="#000000" points="1567.48,-349.664 1563.97,-339.664 1560.48,-349.664 1567.48,-349.664" />
+</g>
+<!-- デニス・リッチー 1941生 -->
+<g class="node" id="node46">
+<title>デニス・リッチー 1941生</title>
+<polygon fill="none" stroke="#000000" points="121.925,-1243.2 0.025,-1243.2 0.025,-1221.2 121.925,-1221.2 121.925,-1243.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="60.975" y="-1229.2">デニス・リッチー 1941生</text>
+</g>
+<!-- デニス・リッチー 1941生&#45;&gt;デニス・リッチー 1969 -->
+<g class="edge" id="edge1">
+<title>デニス・リッチー 1941生-&gt;デニス・リッチー 1969</title>
+<path fill="none" stroke="#000000" d="M 60.975 -1221.18 C 60.975 -1204.38 60.975 -1172.08 60.975 -1150.58" />
+<polygon fill="#000000" stroke="#000000" points="64.4751,-1150.46 60.975,-1140.46 57.4751,-1150.46 64.4751,-1150.46" />
+</g>
+<!-- ケン・トンプソン 1943生 -->
+<g class="node" id="node47">
+<title>ケン・トンプソン 1943生</title>
+<polygon fill="none" stroke="#000000" points="992.047,-1243.2 863.903,-1243.2 863.903,-1221.2 992.047,-1221.2 992.047,-1243.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="927.975" y="-1229.2">ケン・トンプソン 1943生</text>
+</g>
+<!-- ケン・トンプソン 1943生&#45;&gt;ケン・トンプソン 1969 -->
+<g class="edge" id="edge8">
+<title>ケン・トンプソン 1943生-&gt;ケン・トンプソン 1969</title>
+<path fill="none" stroke="#000000" d="M 927.975 -1221.18 C 927.975 -1204.38 927.975 -1172.08 927.975 -1150.58" />
+<polygon fill="#000000" stroke="#000000" points="931.475,-1150.46 927.975,-1140.46 924.475,-1150.46 931.475,-1150.46" />
+</g>
+<!-- Multics 1969 -->
+<g class="node" id="node48">
+<title>Multics 1969</title>
+<polygon fill="none" stroke="#000000" points="757.975,-919.2 671.975,-919.2 671.975,-897.2 757.975,-897.2 757.975,-919.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="714.975" y="-905.2">Multics 1969</text>
+</g>
+<!-- Multics 1969&#45;&gt;UNIX 1969 -->
+<g class="edge" id="edge14">
+<title>Multics 1969-&gt;UNIX 1969</title>
+<path fill="none" stroke="#000000" d="M 712.929 -896.775 C 708.906 -874.314 699.912 -824.099 694.771 -795.397" />
+<polygon fill="#000000" stroke="#000000" points="698.157,-794.445 692.949,-785.219 691.266,-795.68 698.157,-794.445" />
+</g>
+<!-- ALGOL60  -->
+<g class="node" id="node49">
+<title>ALGOL60 </title>
+<polygon fill="none" stroke="#000000" points="313.975,-1346.2 227.975,-1346.2 227.975,-1324.2 313.975,-1324.2 313.975,-1346.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="270.975" y="-1332.2">ALGOL60 </text>
+</g>
+<!-- ALGOL60 &#45;&gt;CPL 1963 -->
+<g class="edge" id="edge26">
+<title>ALGOL60 -&gt;CPL 1963</title>
+<path fill="none" stroke="#000000" d="M 270.975 -1324.18 C 270.975 -1307.38 270.975 -1275.08 270.975 -1253.58" />
+<polygon fill="#000000" stroke="#000000" points="274.475,-1253.46 270.975,-1243.46 267.475,-1253.46 274.475,-1253.46" />
+</g>
+<!-- ブライアン・
+カーニハン 1942生 -->
+<g class="node" id="node50">
+<title>ブライアン・
+カーニハン 1942生</title>
+<polygon fill="none" stroke="#000000" points="561.77,-1037.2 464.18,-1037.2 464.18,-1005.2 561.77,-1005.2 561.77,-1037.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="512.975" y="-1024.2">ブライアン・</text>
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="512.975" y="-1012.2">カーニハン 1942生</text>
+</g>
+<!-- ブライアン・
+カーニハン 1942生&#45;&gt;ブライアン・
+カーニハン 1969 -->
+<g class="edge" id="edge37">
+<title>ブライアン・
+カーニハン 1942生-&gt;ブライアン・
+カーニハン 1969</title>
+<path fill="none" stroke="#000000" d="M 513.548 -1005.01 C 514.199 -986.633 515.269 -956.386 516.041 -934.587" />
+<polygon fill="#000000" stroke="#000000" points="519.547,-934.478 516.403,-924.36 512.551,-934.23 519.547,-934.478" />
+</g>
+<!-- ビル・ジョイ 1954生 -->
+<g class="node" id="node51">
+<title>ビル・ジョイ 1954生</title>
+<polygon fill="none" stroke="#000000" points="1461.03,-672.2 1360.92,-672.2 1360.92,-650.2 1461.03,-650.2 1461.03,-672.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1410.975" y="-658.2">ビル・ジョイ 1954生</text>
+</g>
+<!-- ビル・ジョイ 1954生&#45;&gt;ビル・ジョイ 1978 -->
+<g class="edge" id="edge47">
+<title>ビル・ジョイ 1954生-&gt;ビル・ジョイ 1978</title>
+<path fill="none" stroke="#000000" d="M 1410.97 -649.952 C 1410.97 -631.253 1410.97 -593.472 1410.97 -569.579" />
+<polygon fill="#000000" stroke="#000000" points="1414.48,-569.403 1410.97,-559.403 1407.48,-569.403 1414.48,-569.403" />
+</g>
+<!-- ジェームズ・ゴスリン 1955生 -->
+<g class="node" id="node52">
+<title>ジェームズ・ゴスリン 1955生</title>
+<polygon fill="none" stroke="#000000" points="1638.71,-559.2 1493.24,-559.2 1493.24,-537.2 1638.71,-537.2 1638.71,-559.2" />
+<text font-family="ＭＳ ゴシック" font-size="10" fill="#000000" text-anchor="middle" x="1565.975" y="-545.2">ジェームズ・ゴスリン 1955生</text>
+</g>
+<!-- ジェームズ・ゴスリン 1955生&#45;&gt;ジェームズ・ゴスリン 1981 -->
+<g class="edge" id="edge63">
+<title>ジェームズ・ゴスリン 1955生-&gt;ジェームズ・ゴスリン 1981</title>
+<path fill="none" stroke="#000000" d="M 1565.77 -537.049 C 1565.44 -519.264 1564.79 -484.172 1564.37 -461.471" />
+<polygon fill="#000000" stroke="#000000" points="1567.87,-461.386 1564.18,-451.452 1560.87,-461.515 1567.87,-461.386" />
+</g>
+</g>
+</svg>
